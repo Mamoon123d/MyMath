@@ -2,8 +2,7 @@
 <resources>
     <declare-styleable name="MyView">
         <attr name="shape_color" format="color"/>
-        <!--<attr name="shape_color" format="color" />
         <attr name="shape_size" format="dimension"/>
--->
+
     </declare-styleable>
 </resources>

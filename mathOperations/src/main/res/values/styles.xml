@@ -1,10 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <style name="CardTweet" parent="CardView">
-        <!-- Custom card items -->
-        <item name="cardCornerRadius">@dimen/card_corner_radius</item>
-    </style>
-
-    <dimen name="card_corner_radius">12</dimen>
 </resources>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/my_view"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".myCustomView">
+
+    <!-- TODO: Update blank fragment layout -->
+    <TextView
+        android:id="@+id/text1"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@android:color/holo_blue_dark"
+        android:text="@string/hello_blank_fragment"
+        android:textColor="@android:color/background_light"
+        android:textSize="20sp" />
+
+</FrameLayout>
